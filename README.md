@@ -107,5 +107,10 @@ Keras-OCR là một thư viện Python mã nguồn mở, dùng để nhận di�
   - Nếu cần chữ tiếng Việt đầy đủ dấu → Nên dùng **EasyOCR (lang='vi')** hoặc **Tesseract OCR với gói vie**.
 
 ---
+## V.Cách cài đặt:
+- Yêu cầu máy có Docker
+- Clone Repo về máy
+- Sau đó chạy lệnh `docker build -t keras-ocr-app .`
+- Sau đó chạy lệnh `docker run --rm -v "$(pwd)/MauBiaSach:/app/MauBiaSach" keras-ocr-app` 
 
 
