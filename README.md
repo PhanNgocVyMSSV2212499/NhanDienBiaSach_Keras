@@ -55,7 +55,7 @@ Keras-OCR là một thư viện Python mã nguồn mở, dùng để nhận di�
 
 ---
 
-## IV. Cài đặt và triển khai OCR bằng Docker
+## IV.Quá trình cài đặt và triển khai OCR bằng Docker
 
 ### 1. Cài đặt ban đầu
 - Cài `keras-ocr` bằng:
@@ -108,4 +108,4 @@ Keras-OCR là một thư viện Python mã nguồn mở, dùng để nhận di�
 
 ---
 
-✍ *Tài liệu được biên soạn phục vụ tìm hiểu và triển khai OCR bằng Keras-OCR và Docker.*
+
